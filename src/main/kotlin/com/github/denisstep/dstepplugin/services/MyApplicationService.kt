@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.denisstep.dstepplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.denisstep.dstepplugin.MyBundle
 
 class MyApplicationService {
 
